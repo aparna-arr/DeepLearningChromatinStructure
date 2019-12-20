@@ -1,0 +1,1 @@
+This directory contains 3 model run files for interpreting the best model's results, as well as 5 example instance_model model run files for different attempts at building the best model through random hyperparameter search. The actual analysis produced 50 such files, only 5 are shown here for convenience.

@@ -1,0 +1,5 @@
+This directory contains two convenience scripts and the models_and_src/ and data_preprocessing/ subdirectory, which contains some example model files / other run files and the src/ subdirectory with the neural network code.
+
+hyperparam_search.py performs a random search of hyperparameters and outputs run files for each model
+
+scrape_results.pl is a convenience script to parse logfiles for quick LaTeX table generation

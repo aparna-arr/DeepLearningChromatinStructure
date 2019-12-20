@@ -1,0 +1,12 @@
+REPS	1
+SAVE_JOBNAME	50kIndividualPolymerSims_121019
+SAVE_PATH	/scratch/users/arrajpur/50K_Individual_PolymerSims_121019/
+
+GRADIENT_PARAM	SEED
+GRADIENT_START	0
+GRADIENT_END	500
+GRADIENT_POINTS	500
+
+POLYMER_TEMPLATE	52barcodesim.polymer
+SIM_TEMPLATE	52barcodesim.sim
+BATCH_TEMPLATE	52barcodesim_batch.sh
